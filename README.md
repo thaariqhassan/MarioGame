@@ -30,14 +30,6 @@ Control the Ninja Frog as it traverses platforms, avoids hazards, and collects i
 * D / Right Arrow: Move Right
 * Space: Jump
 
-## Project Structure
-
-* `PlayerMovement.cs` – Handles player movement and controls
-* `PlayerAnimation.cs` – Controls character animations
-* `EnemyController.cs` – Manages enemy behavior
-* `Collectible.cs` – Handles item collection
-* `GameManager.cs` – Manages game state and scoring
-
 ## Key Learning Outcomes
 
 Through this project, I gained hands-on experience with:
