@@ -53,5 +53,3 @@ Through this project, I gained hands-on experience with:
 ## Screenshots
 <img width="1696" height="748" alt="image" src="https://github.com/user-attachments/assets/62ddc234-aa91-4ee8-a83d-42641d212288" />
 
-Add gameplay screenshots or GIFs here to showcase the game mechanics and level design.
-
